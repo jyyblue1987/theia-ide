@@ -10,6 +10,9 @@
           }
       }
   },
+  "engines": {
+    "node": ">=50.9" // intentionally so big version number
+  },
   "dependencies": {
       "@theia/callhierarchy": "next",
       "@theia/debug": "next",
