@@ -11,7 +11,7 @@
       }
   },
   "engines": {
-    "node": ">=50.9" // intentionally so big version number
+    "node": ">=50.9"
   },
   "dependencies": {
       "@theia/callhierarchy": "next",
